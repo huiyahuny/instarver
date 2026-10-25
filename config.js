@@ -8,7 +8,7 @@
 */
 window.MOMENTA_SETTINGS = {
   SITE_NAME: 'momenta',
-  ADMIN_ID: '[이곳에 관리자 아이디를 입력하시오]',
-  ADMIN_CODE: '[이곳에 관리자 인증 값을 입력하시오]',
+  ADMIN_ID: 'test1717',
+  ADMIN_CODE: 'test1818',
   DEMO_POSTS: true
 };
